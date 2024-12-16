@@ -1,0 +1,69 @@
+.add{
+    width: 100%;
+height: 404px;
+top: 1576px;
+padding: 50px;
+background: #F7FDFF;
+}
+.box{
+    width: 1240px;
+height: 284px;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+}
+.plus{
+    width: 33.33px;
+height: 33.33px;
+top: 3.33px;
+left: 3.33px;
+gap: 0px;
+background: #0096C8;
+color: #FFFFFF;
+border-radius: 50%;
+padding: 5px;
+padding-left: 11px;
+font-weight: 600;
+margin-top: 40px;
+margin-left: 40px;
+}
+.topic{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #08090A;
+margin-top: 40px;
+}
+.to{
+    display: flex;
+    gap: 30px;
+}
+.content{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #08090A;
+margin-left: 40px;
+margin-top: 20px;
+}
+.button{
+height: 40px;
+padding: 6px 26px 9px 26px;
+gap: 10px;
+border-radius: 8px;
+border: 1px ;
+border: 1px solid #8064A2;
+color : #8064A2;
+font-size: 20;
+font-weight: 550;
+margin-left: 35px;
+margin-top: 20px;
+}
